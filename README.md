@@ -2,14 +2,17 @@
 
 A classic Snake game that runs entirely in the browser — one single HTML file, no build step, no dependencies. Built to be played on both desktop and mobile.
 
+[![Play Now](https://img.shields.io/badge/%E2%96%B6_Play_Now-Snake_Game-brightgreen?style=for-the-badge)](https://shuangjielv.github.io/Snake-game/)
+
+**▶️ Play it live: https://shuangjielv.github.io/Snake-game/**
+
 ![Built with](https://img.shields.io/badge/built_with-HTML%20%2F%20CSS%20%2F%20JavaScript-green) ![Dependencies](https://img.shields.io/badge/dependencies-none-blue)
 
 ## ▶️ Play
 
-**Option 1 — just open the file:** download `index.html` and open it in any modern browser (Chrome, Safari, Edge, Firefox).
+**Option 1 — play online:** https://shuangjielv.github.io/Snake-game/ (GitHub Pages)
 
-**Option 2 — GitHub Pages:** if this repo has Pages enabled, play it at
-`https://<your-username>.github.io/snake-game/`
+**Option 2 — just open the file:** download `index.html` and open it in any modern browser (Chrome, Safari, Edge, Firefox).
 
 On iPhone/iPad, open the page in Safari and choose **Share → Add to Home Screen** to play it like a native app.
 
